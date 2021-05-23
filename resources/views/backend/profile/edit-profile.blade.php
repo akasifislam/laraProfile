@@ -53,7 +53,7 @@
                             <div class="form-group col-md-4">
                               <img id="showImage" src="{{ (!empty($editData->image))?url('/upload/user_images/'.$editData->image):url('/upload/default/default.png') }}" style=" width: 150px; height: 160px; border:1px solid #000;" alt="">
                             </div>
-                              <div class="form-group col-md-12">
+                              <div class="form-group">
                                 <input type="submit" value="update" class="btn btn-primary">    
                               </div>
         

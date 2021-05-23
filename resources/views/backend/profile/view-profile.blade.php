@@ -42,7 +42,7 @@
                     </li>
                   </ul>
   
-                  <a href="{{ route('profiles.edit') }}" class="btn btn-primary btn-block"><b>Edit</b></a>
+                  <a href="{{ route('profiles.edit') }}" class="btn btn-primary"><b>Edit</b></a>
                 
                     
                   </div>
